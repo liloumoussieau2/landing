@@ -1,0 +1,42 @@
+/* Write some CSS below */
+h1{
+color: ##5D6D7E
+}
+body{
+color: rgb(100,100,100);
+background-color: (0,0,0)
+}
+a{
+background: blue 
+}
+a{color: grey 
+}
+.baner{
+text-align: center;
+padding: 100px 0;
+}
+.button{
+padding:10px 15px;
+border-radius: 8px;
+}
+.card{
+border-radius: 6px;
+box-shadow: 4px 4px 10px rgba(0,0,0,0.2);
+padding: 16px;
+}
+.cards{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+grid-gap: 16px;
+}
+.card-immage{
+width: 100%;
+}
+.main-section{
+max-width: 800px;
+margin: 0 auto;
+}
+header {
+	backgroud color: beige;
+	
+}
